@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * jack_bauer - "prints the sign of a number"
- *
+ * jack_bauer - "prints every minute of the day from 00:00 to 23:59"
+ * 
  * Return: Always (0)
  */
 
