@@ -1,0 +1,17 @@
+#include "main.h"
+
+/**
+ * swap_int - "checks for lowercase character"
+ *
+ * @a: character to check
+ *
+ * @b: character to check
+ *
+ * Return: Always (0)
+ */
+
+void swap_int(int *a, int *b)
+{
+	*a = *b;
+	*b = 98;
+}
